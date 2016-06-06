@@ -1,0 +1,1 @@
+dps_loggrep VSSIP server.log | egrep -v "Dur: 0|Dur: 1 " | awk '{print $12","$18","$21}' > <filename.csv>

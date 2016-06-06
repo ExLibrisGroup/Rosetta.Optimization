@@ -1,0 +1,1 @@
+cd /exlibrismkdir nmoncd nmonwget http://sourceforge.net/projects/nmon/files/nmon_x86_rhel54/downloadmv nmon_x86_rhel54 nmonchmod +x nmon
